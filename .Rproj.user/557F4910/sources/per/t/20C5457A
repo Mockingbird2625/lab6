@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512508131928.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2533932538",
+    "id" : "20C5457A",
+    "lastKnownWriteTime" : 1512515102,
+    "last_content_update" : 1512515102065,
+    "path" : "C:/lab6/quadratic/server.R",
+    "project_path" : "quadratic/server.R",
+    "properties" : {
+        "cursorPosition" : "32,49",
+        "scrollLine" : "6"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
